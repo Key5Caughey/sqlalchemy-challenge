@@ -7,3 +7,4 @@ Queried the data and created create graphs .
 Designed climate app using vs code .
 Displayed results in browser. 
 Code was acheived through classes, office hours, tutor, and research online.
+Notes on code is included in jupyter notebook>
