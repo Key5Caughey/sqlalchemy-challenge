@@ -7,4 +7,5 @@ Queried the data and created create graphs .
 Designed climate app using vs code .
 Displayed results in browser. 
 Code was acheived through classes, office hours, tutor, and research online.
-Notes on code is included in jupyter notebook>
+Notes on code is included in jupyter notebook.
+Tried to get a nice image of Hawaiian beach but could not , if you check my code maybe you can give me some pointers.
